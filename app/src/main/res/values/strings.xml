@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lat3UTS-IF9-10116411-IRSYADNURDIN</string>
+
+    <string name="home">Home</string>
+    <string name="daily">Daily Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="dailyActivity">Favorite</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
